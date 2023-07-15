@@ -1,4 +1,4 @@
-# async-utils [![npm](https://img.shields.io/npm/v/@riadh-adrani/async-utils?async=blue)](https://www.npmjs.com/package/@riadh-adrani/async-utils) [![CI/CD](https://github.com/RiadhAdrani/async-utils/actions/workflows/actions.yml/badge.svg)](https://github.com/RiadhAdrani/async-utils/actions/workflows/actions.yml)
+# async-utils [![npm](https://img.shields.io/npm/v/@riadh-adrani/async-utils?async=blue)](https://www.npmjs.com/package/@riadh-adrani/async-utils) [![CI/CD](https://github.com/RiadhAdrani/async-utils/actions/workflows/checks.yml/badge.svg)](https://github.com/RiadhAdrani/async-utils/actions/workflows/checks.yml)
 
 Javascript asynchronous utilities.
 
