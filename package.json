@@ -1,5 +1,5 @@
 {
-  "name": "async-utils",
+  "name": "@riadh-adrani/async-utils",
   "description": "Javascript asynchronous utilities",
   "repository": {
     "type": "git",
