@@ -4,7 +4,7 @@
     "baseUrl": "src",
     "useDefineForClassFields": true,
     "module": "ES2020",
-    "lib": ["ESNext", "DOM"],
+    "lib": ["ESNext"],
     "moduleResolution": "node16",
     "outDir": "dist",
     "strict": true,
@@ -16,7 +16,6 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "skipLibCheck": true,
-    "pretty": true,
     "types": []
   },
   "include": ["src"],
