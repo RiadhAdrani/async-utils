@@ -2,4 +2,4 @@
 
 Javascript asynchronous utilities.
 
-Check documentation [`here`](https://riadhadrani.github.io/utility-js/async.html)
+Check documentation [`here`](https://riadhadrani.github.io/utils/async.html)
